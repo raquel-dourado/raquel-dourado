@@ -1,5 +1,3 @@
-# Projeto desenvolvido para aplicação de candidatura em vaga para Dr-Consulta.
-
 ## Testes Automatizados de Login e Carrinho de Compra com Robot Framework
 
 Este projeto contém cenários de testes automatizados para a funcionalidade de login e carrinho de compra usando o Robot Framework.
