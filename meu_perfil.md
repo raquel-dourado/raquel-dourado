@@ -1,4 +1,4 @@
-# Analista de Qualidade de desenvolvimento de Software
+# Analista da qualidade de desenvolvimento de software 🔍🐞
 
 * Neste repositório, compartilho alguns projeto que me apliquei nos ultimos dias. *
 
